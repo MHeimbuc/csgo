@@ -97,10 +97,10 @@ if [[ -f "$PLUGINS_ENABLED_DIR"/retakes.smx ]]; then
 fi
 
 if [ "$RETAKES" = "1" ]; then
-  if [[ -f "$PLUGINS_ENABLED_DIR"/pugsetup.smx ]]; then
-    (cd "$PLUGINS_ENABLED_DIR" && mv pugsetup*.smx "$PLUGINS_DISABLED_DIR")
-    echo "Disabled PugSetup plugins"
-  fi
+  #if [[ -f "$PLUGINS_ENABLED_DIR"/pugsetup.smx ]]; then
+  #  (cd "$PLUGINS_ENABLED_DIR" && mv pugsetup*.smx "$PLUGINS_DISABLED_DIR")
+  #  echo "Disabled PugSetup plugins"
+  #fi
   # shellcheck disable=SC2086
   (cd "$PLUGINS_DISABLED_DIR" && mv $RETAKES_PLUGINS "$PLUGINS_ENABLED_DIR")
   echo "Enabled Retakes plugins"
