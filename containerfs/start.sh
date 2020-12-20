@@ -118,7 +118,7 @@ if grep -q 'steam.sh' "$SRCDS_RUN"; then
 fi
 
 echo "copying extensions to ${CSGO_DIR}"
-cp -r extension/* $CSGO_DIR
+cp -rf $STEAM_DIR/extension/* $CSGO_DIR
 
 # Start the server
 exec "$BASH" "$SRCDS_RUN" "${SRCDS_ARGUMENTS[@]}"
