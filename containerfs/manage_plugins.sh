@@ -13,6 +13,7 @@ https://forums.alliedmods.net/attachment.php?attachmentid=184479&d=1602926778
 https://github.com/danzayau/MovementAPI/releases/download/2.1.0/MovementAPI-v2.1.0.zip
 https://bitbucket.org/Sikarii/movementhud/downloads/MovementHUD-latest.smx
 https://bitbucket.org/kztimerglobalteam/gokz/downloads/GOKZ-latest.zip
+https://raw.githubusercontent.com/Kidev/KZTierMapchooser/master/compiled/mapchooser_tier.smx
 }"
 
 get_checksum_from_string () {
