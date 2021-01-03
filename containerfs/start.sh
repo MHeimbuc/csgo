@@ -41,8 +41,11 @@ log on
 hostname "$SERVER_HOSTNAME"
 rcon_password "$RCON_PASSWORD"
 sv_password "$SERVER_PASSWORD"
-sv_cheats 0
+sv_cheats 0 
 sv_allowupload 1
+sv_allowdownload 1
+cl_allowupload 1
+cl_allowdownload 1
 exec banned_user.cfg
 exec banned_ip.cfg
 AUTOEXECCFG
