@@ -42,7 +42,7 @@ hostname "$SERVER_HOSTNAME"
 rcon_password "$RCON_PASSWORD"
 sv_password "$SERVER_PASSWORD"
 sv_cheats 0
-sv_allowuploads 1
+sv_allowupload 1
 exec banned_user.cfg
 exec banned_ip.cfg
 AUTOEXECCFG
