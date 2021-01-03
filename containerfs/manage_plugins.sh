@@ -13,8 +13,8 @@ https://github.com/danzayau/MovementAPI/releases/download/2.1.0/MovementAPI-v2.1
 https://bitbucket.org/Sikarii/movementhud/downloads/MovementHUD-latest.smx
 https://bitbucket.org/kztimerglobalteam/gokz/downloads/GOKZ-latest.zip
 https://raw.githubusercontent.com/Kidev/KZTierMapchooser/master/compiled/mapchooser_tier.smx
-https://bitbucket.org/kztimerglobalteam/globalrecordssmplugin/downloads/GlobalAPI-Core-v.1.2.0.zip
-https://bitbucket.org/kztimerglobalteam/globalrecordssmplugin/downloads/GlobalAPI-Jumpstats-v.1.2.1.zip
+https://fastdl.fermalel.ovh/GlobalAPI-Core-v.1.2.1.zip
+https://fastdl.fermalel.ovh/GlobalAPI-Jumpstats-v.1.2.1.zip
 https://fastdl.fermalel.ovh/console-cleaner.zip
 https://fastdl.fermalel.ovh/jansson.zip
 }"
