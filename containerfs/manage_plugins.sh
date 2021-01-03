@@ -14,6 +14,7 @@ https://bitbucket.org/Sikarii/movementhud/downloads/MovementHUD-latest.smx
 https://bitbucket.org/kztimerglobalteam/gokz/downloads/GOKZ-latest.zip
 https://raw.githubusercontent.com/Kidev/KZTierMapchooser/master/compiled/mapchooser_tier.smx
 https://fastdl.fermalel.ovh/console-cleaner.zip
+https://fastdl.fermalel.ovh/jansson.zip
 }"
 
 get_checksum_from_string () {
