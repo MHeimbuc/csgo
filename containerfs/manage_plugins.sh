@@ -17,6 +17,7 @@ https://fastdl.fermalel.ovh/GlobalAPI-Core-v.1.2.1.zip
 https://fastdl.fermalel.ovh/GlobalAPI-Jumpstats-v.1.2.1.zip
 https://fastdl.fermalel.ovh/console-cleaner.zip
 https://fastdl.fermalel.ovh/jansson.zip
+https://fastdl.fermalel.ovh/sm_dexeccfg.smx
 }"
 
 get_checksum_from_string () {
