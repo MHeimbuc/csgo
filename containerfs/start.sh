@@ -46,16 +46,6 @@ sv_allowupload 1
 sv_allowdownload 1
 cl_allowupload 1
 cl_allowdownload 1
-mp_match_end_restart 0
-mp_freezetime 0
-mp_autokick 0
-sm_mapvote_extend 999
-sm_mapvote_start 5
-sm_mapvote_include 20
-sm_mapvote_novote 0
-mp_roundtime_defuse 60
-mp_roundtime_hostage 60
-mp_roundtime 60
 exec banned_user.cfg
 exec banned_ip.cfg
 AUTOEXECCFG
