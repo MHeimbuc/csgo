@@ -9,11 +9,11 @@ export RETAKES="${RETAKES:-0}"
 INSTALL_PLUGINS="${INSTALL_PLUGINS:-https://mms.alliedmods.net/mmsdrop/1.10/mmsource-1.10.7-git971-linux.tar.gz
 https://sm.alliedmods.net/smdrop/1.10/sourcemod-1.10.0-git6478-linux.tar.gz
 http://users.alliedmods.net/~kyles/builds/SteamWorks/SteamWorks-git131-linux.tar.gz
-https://forums.alliedmods.net/attachment.php?attachmentid=184479&d=1602926778
 https://github.com/danzayau/MovementAPI/releases/download/2.1.0/MovementAPI-v2.1.0.zip
 https://bitbucket.org/Sikarii/movementhud/downloads/MovementHUD-latest.smx
 https://bitbucket.org/kztimerglobalteam/gokz/downloads/GOKZ-latest.zip
 https://raw.githubusercontent.com/Kidev/KZTierMapchooser/master/compiled/mapchooser_tier.smx
+https://fastdl.fermalel.ovh/console-cleaner.zip
 }"
 
 get_checksum_from_string () {
