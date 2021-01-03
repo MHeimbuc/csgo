@@ -48,6 +48,7 @@ cl_allowupload 1
 cl_allowdownload 1
 mp_match_end_restart 0
 mp_freezetime 0
+mp_autokick 0
 exec banned_user.cfg
 exec banned_ip.cfg
 AUTOEXECCFG
